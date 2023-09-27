@@ -1,6 +1,6 @@
 <h1 align="center">GOOD FOODS</h1>
 <br><br>
-<em><p align="center">This is a simple frontend website which is made using pure HTML and CSS.<br> This website is made reponsive using CSS Media Queries.</p></em>
+<em><p align="center">This is a sample website for a food outlet which is made using pure HTML and CSS.<br> This website is made reponsive using CSS Media Queries.</p></em>
 <br><br>
 <img width="940" align="center alt="image" src="https://github.com/Garima3110/GoodFoods-Website/assets/110815240/eecf3c4d-c973-4729-baad-211ea3a9859a">
 <br><br>
